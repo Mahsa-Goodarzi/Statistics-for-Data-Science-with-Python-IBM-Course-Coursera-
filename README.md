@@ -1,8 +1,8 @@
 # Statistics for Data Science with Python (IBM)
 
-This repository contains my coursework and the final capstone project for the **"Statistics for Data Science with Python"** course, part of the IBM Data Science Professional Certificate on Coursera.
+This repository contains the coursework and final capstone project for the **"Statistics for Data Science with Python"** course, offered by IBM on Coursera.
 
-The notebooks demonstrate how to apply statistical methods to business problems using Python, moving from data visualization to complex hypothesis testing and regression modeling.
+The notebooks are organized into **7 Modules**, guiding you through the process of loading data, performing exploratory data analysis (EDA), visualizing distributions, and conducting rigorous statistical tests to derive business insights.
 
 ## Technologies & Libraries
 
@@ -13,31 +13,17 @@ The notebooks demonstrate how to apply statistical methods to business problems 
 
 ## Repository Structure
 
-The notebooks are organized by the learning modules of the course:
+The project is structured into folders corresponding to the course curriculum:
 
-### 1. Python & Data Visualization Review
-* **File:** `Python Review.ipynb` / `Visualizing Data.ipynb`
-* **Topics:** Loading data, cleaning data, and creating basic visualizations (Histograms, Boxplots, Scatterplots) to understand data distribution.
-
-### 2. Probability Distributions
-* **File:** `Introduction to Probability Distributions.ipynb`
-* **Topics:** Understanding Normal distribution, calculating probabilities, confidence intervals, and z-scores using `scipy.stats`.
-
-### 3. Hypothesis Testing
-* **File:** `Hypothesis Testing.ipynb`
-* **Topics:** Implementing statistical tests to validate assumptions:
-    * T-Test (Independent samples)
-    * ANOVA (Analysis of Variance)
-    * Chi-Square Test for association
-    * Levene's Test for equality of variance
-
-### 4. Regression Analysis
-* **File:** `Regression Analysis.ipynb`
-* **Topics:** Performing simple and multiple linear regression using `statsmodels` to predict outcomes and analyze relationships between variables.
-
-### 5. Final Project: Boston Housing Analysis
-* **File:** `Data Science Project Case - Boston Housing Data.ipynb`
-* **Description:** A comprehensive analysis of the Boston Housing dataset. This project integrates all course concepts to answer specific questions about housing prices using visualizations, T-tests, ANOVA, correlation analysis, and regression.
+| Folder | Notebook File | Description |
+| :--- | :--- | :--- |
+| **Module 1** | `Python Review.ipynb` | Introduction to Python basics, loading data, and cleaning datasets. |
+| **Module 2** | `Descriptive Statistics.ipynb` | Calculating measures of central tendency (mean, median, mode) and dispersion. |
+| **Module 3** | `Visualizing Data.ipynb` | Creating histograms, boxplots, and scatterplots to understand data patterns. |
+| **Module 4** | `Introduction to Probability Distributions.ipynb` | Working with Normal distribution, confidence intervals, and probability density functions using `scipy`. |
+| **Module 5** | `Hypothesis Testing.ipynb` | Performing T-tests, ANOVA, Levene's Test, and Chi-Square Test to validate assumptions. |
+| **Module 6** | `Regression Analysis.ipynb` | Building Simple and Multiple Linear Regression models using `statsmodels` to predict outcomes. |
+| **Module 7** | `Data Science Project Case - Boston Housing Data.ipynb` | **Final Capstone:** A complete statistical analysis of the Boston Housing dataset, integrating all techniques learned in previous modules. |
 
 ## Certificate
-This coursework was completed as part of the IBM Data Science curriculum.
+This coursework was completed as part of the IBM Data Science Professional curriculum.
