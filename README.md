@@ -25,5 +25,3 @@ The project is structured into folders corresponding to the course curriculum:
 | **Module 6** | `Regression Analysis.ipynb` | Building Simple and Multiple Linear Regression models using `statsmodels` to predict outcomes. |
 | **Module 7** | `Data Science Project Case - Boston Housing Data.ipynb` | **Final Capstone:** A complete statistical analysis of the Boston Housing dataset, integrating all techniques learned in previous modules. |
 
-## Certificate
-This coursework was completed as part of the IBM Data Science Professional curriculum.
