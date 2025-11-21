@@ -1,6 +1,6 @@
 # IBM Statistics for Data Science with Python
 
-This repository contains the coursework and final capstone project for the [**Statistics for Data Science with Python**](https://www.coursera.org/learn/statistics-for-data-science-python) course, offered by IBM on Coursera.
+This repository contains the coursework and final capstone project for the [**Statistics for Data Science with Python**](https://www.coursera.org/learn/statistics-for-data-science-python) course, offered by **IBM** on **Coursera**.
 
 The notebooks are organized into **7 Modules**, guiding you through the process of loading data, performing exploratory data analysis (EDA), visualizing distributions, and conducting rigorous statistical tests to derive business insights.
 
